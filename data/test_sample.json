@@ -1,0 +1,44 @@
+[
+  {
+    "page_part_title": "Siemens Circuit Breaker 3RV2021-4DA25",
+    "page_part_number": "3RV2021-4DA25",
+    "page_part_description": "Siemens industrial circuit breaker",
+    "page_part_product_group": "Circuit Breakers",
+    "page_part_manufacturer": "Siemens AG",
+    "client_part_manufacturer": "Siemens",
+    "client_part_number": "3RV2021-4DA25",
+    "client_part_type": "Electrical",
+    "client_part_internal_number": "INT1001",
+    "client_part_product_group": "Circuit Breakers",
+    "client_part_price": 250.0,
+    "page_part_price": 245.5
+  },
+  {
+    "page_part_title": "SKF Ball Bearing 6002-2RSH",
+    "page_part_number": "6002-2RSH",
+    "page_part_description": "Deep groove ball bearing single row",
+    "page_part_product_group": "Bearings",
+    "page_part_manufacturer": "SKF",
+    "client_part_manufacturer": "SKF",
+    "client_part_number": "6002-2RSH",
+    "client_part_type": "Mechanical",
+    "client_part_internal_number": "INT1002",
+    "client_part_product_group": "Bearings",
+    "client_part_price": 12.0,
+    "page_part_price": 11.8
+  },
+  {
+    "page_part_title": "Generic Cupcake Stand",
+    "page_part_number": "1510-1009",
+    "page_part_description": "Cake display accessory",
+    "page_part_product_group": "Cups & Liners",
+    "page_part_manufacturer": "Wilton",
+    "client_part_manufacturer": "Great Plains",
+    "client_part_number": "15101009",
+    "client_part_type": "Hydraulic",
+    "client_part_internal_number": "INT1003",
+    "client_part_product_group": "Hydraulic Motor",
+    "client_part_price": 628.22,
+    "page_part_price": 15.0
+  }
+]
