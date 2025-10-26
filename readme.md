@@ -47,3 +47,14 @@ product_matcher_assignment/
 
 ## 2) Put input data
 #### Place your raw file at data/data.json
+
+## 3) Run the Pipeline
+#### Option A — Train and Predict (typical development run)
+#### Use the orchestrator that performs everything:
+#### FE → split (rules vs undecided) → train model on undecided → evaluate
+#### Combine rule-decided + model-decided → save final CSV and model
+#### python -m src/train_pred_pipeline.py
+
+#### Option B — Predict only (using a pre-trained model)
+#### When you already have models/model.pkl
+#### python -m src/prediction_pipeline.py
